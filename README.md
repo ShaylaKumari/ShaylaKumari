@@ -24,9 +24,6 @@ const desenvolvedora = {
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaylaKumari&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens Mais Usadas"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/ShaylaKumari/ShaylaKumari/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ## ✨ Habilidades e Tecnologias
 
