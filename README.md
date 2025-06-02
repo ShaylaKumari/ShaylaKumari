@@ -12,7 +12,7 @@ const desenvolvedora = {
   nome: 'Ananda Shayla Soares Kumari',
   status: 'Em formação',
   faseAtual: 'Explorando tecnologias e boas práticas',
-  objetivoFinal: 'Me tornar uma Full Stack Developer',
+  objetivoFinal: 'Construir minha carreira, superando desafios e criando soluções que façam a diferença',
   mindset: 'Aprendizado constante'
 };
 ```
