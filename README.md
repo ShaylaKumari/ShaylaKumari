@@ -8,12 +8,10 @@
 
 ```javascript
 // desenvolvedora.js
-const desenvolvedora = {
-  nome: 'Ananda Shayla Soares Kumari',
-  status: 'Em formação',
-  faseAtual: 'Explorando tecnologias e boas práticas',
-  objetivoFinal: 'Construir minha carreira, superando desafios e criando soluções que façam a diferença',
-  mindset: 'Aprendizado constante'
+const shayla = {
+  stack: ['JavaScript','Node.js','PostgreSQL','Supabase'],
+  especialidades: ['APIs REST','Automação de Dados'],
+  mindset: 'Aprendizado contínuo e prática constante'
 };
 ```
 
@@ -34,10 +32,11 @@ const desenvolvedora = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Entre em Contato Comigo
 
