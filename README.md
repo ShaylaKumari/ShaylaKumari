@@ -9,9 +9,9 @@
 ```javascript
 // desenvolvedora.js
 const shayla = {
-  stack: ['JavaScript','Node.js','PostgreSQL','Supabase'],
-  especialidades: ['APIs REST','Automação de Dados'],
-  mindset: 'Aprendizado contínuo e prática constante'
+  stack: ['JavaScript','Node.js','PostgreSQL','Supabase', 'n8n'],
+  foco: ['IA', 'Automação de Processos', 'Integrações'],
+  mindset: 'Aprendizado contínuo e soluções eficientes'
 };
 ```
 
